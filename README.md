@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on most advanced Ai agent available for free in public domain. Have patience<br>🤝 I’m looking for help with understanding how exactly our systems work. How exactly the hardware and software work together on the lowest level<br>🌱 I’m currently learning Data Structures and Algorithms in Python<br>
+🔭 I’m currently working on most advanced Ai agent available for free in public domain. Have patience<br>🤝 I’m currently trying to  understanding how exactly our systems work. How exactly the hardware and software work together on the lowest binary level and manages to alter the photons in an exact same pattern every time<br>🌱 I’m currently learning Data Structures and Algorithms in Python<br>
 
 
 ## 🌐 Socials:
